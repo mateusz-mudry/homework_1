@@ -14,3 +14,15 @@ body {
   width: 372px;
   margin: 10px;
 }
+
+.box3 {
+  background-image: url("sea_mountains.jpg");
+}
+
+.box2 img {
+  top: 32px;
+  left: 437px;
+  width: 372px;
+  height: 236px;
+  border-radius: 10px 10px 0px 0px;
+}
