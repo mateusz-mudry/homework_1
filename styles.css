@@ -1,0 +1,16 @@
+body {
+  font-family: Gotham;
+  background-color: #eaeaea;
+}
+
+.container {
+  padding: 20px;
+  display: flex;
+}
+
+.container div {
+  background-color: aqua;
+  height: 500px;
+  width: 372px;
+  margin: 10px;
+}
