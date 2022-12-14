@@ -16,8 +16,8 @@ body {
 .box1 {
   background-color: #ffffff;
   height: 971px;
-  top: 32px;
-  left: 49px;
+  /* top: 32px; */
+  /* left: 49px; */
   text-align: center;
   padding-left: 0px;
   width: 372px;
@@ -27,8 +27,8 @@ body {
 .box2 {
   background-color: #ffffff;
   height: 471px;
-  top: 32px;
-  left: 437px;
+  /* top: 32px; */
+  /* left: 437px; */
   width: 372px;
   border-radius: 10px;
 }
@@ -45,8 +45,8 @@ body {
 }
 
 .box2 img {
-  top: 32px;
-  left: 437px;
+  /* top: 32px; */
+  /* left: 437px; */
   width: 372px;
   height: 236px;
   border-radius: 10px 10px 0px 0px;
