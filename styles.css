@@ -9,14 +9,39 @@ body {
 }
 
 .container div {
-  background-color: aqua;
-  height: 500px;
   width: 372px;
   margin: 10px;
 }
 
+.box1 {
+  background-color: #ffffff;
+  height: 971px;
+  top: 32px;
+  left: 49px;
+  text-align: center;
+  padding-left: 0px;
+  width: 372px;
+  border-radius: 10px;
+}
+
+.box2 {
+  background-color: #ffffff;
+  height: 471px;
+  top: 32px;
+  left: 437px;
+  width: 372px;
+  border-radius: 10px;
+}
+
 .box3 {
   background-image: url("sea_mountains.jpg");
+  /* top: 549px; */
+  /* left: 437px; */
+  background-size: 372px 171px;
+  width: 372px;
+  height: 171px;
+  color: #ffffff;
+  border-radius: 10px;
 }
 
 .box2 img {
