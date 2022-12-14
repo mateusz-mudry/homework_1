@@ -1,0 +1,146 @@
+body {
+  font-family: Gotham;
+  background-color: #eaeaea;
+}
+
+.container {
+  padding: 20px;
+  display: flex;
+}
+
+.container div {
+  margin: 10px;
+}
+
+p {
+  font-size: 16px;
+  color: #7b8591;
+}
+
+.box1 {
+  background-color: #ffffff;
+  height: 971px;
+  text-align: center;
+  padding-left: 0px;
+  width: 372px;
+  border-radius: 10px;
+}
+
+.box1 p {
+  margin-left: 52px;
+  margin-right: 52px;
+}
+
+.box2 {
+  background-color: #ffffff;
+  height: 471px;
+  width: 372px;
+  border-radius: 10px;
+}
+
+.box2 img {
+  width: 372px;
+  height: 236px;
+  border-radius: 10px 10px 0px 0px;
+}
+
+.box2 p {
+  margin-left: 44px;
+  margin-right: 44px;
+}
+
+.box2 h3 {
+  margin-left: 44px;
+  margin-right: 44px;
+  color: #303336;
+  font-size: 28px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.box2_title {
+  text-transform: uppercase;
+  color: #33439b;
+  font-weight: 500;
+  margin-top: 31px;
+}
+
+.box3 {
+  background-image: url("sea_mountains.jpg");
+  background-size: 372px 171px;
+  width: 372px;
+  height: 171px;
+  border-radius: 10px;
+}
+
+.box3 p {
+  color: #ffffff;
+  margin-left: 34px;
+  margin-right: 34px;
+}
+
+.box3_title {
+  text-transform: uppercase;
+  font-weight: 500;
+  padding-top: 30px;
+  font-size: 11px;
+}
+
+header {
+  background: #3ca773 0% 0% no-repeat padding-box;
+  border-radius: 10px 10px 0px 0px;
+  height: 55px;
+  color: #ffffff;
+}
+
+h2 {
+  margin: 0px;
+  text-align: center;
+  padding: 12px;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+
+h4 {
+  color: #303336;
+}
+
+.number {
+  width: 39px;
+  height: 39px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50px;
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.number_container {
+  display: flex;
+  align-self: center;
+  justify-content: center;
+}
+
+#number1 {
+  background-color: #d9a34a;
+}
+
+#number2 {
+  background-color: #007ac2;
+}
+
+#number3 {
+  background-color: #3ca773;
+}
+
+#number4 {
+  background-color: #53bbb3;
+}
+
+hr {
+  width: 287px;
+  border: 1px solid #7b8591;
+  opacity: 0.24;
+}
