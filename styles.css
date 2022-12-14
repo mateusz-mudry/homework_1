@@ -9,7 +9,7 @@ body {
 }
 
 .container div {
-  width: 372px;
+  /* width: 372px; */
   margin: 10px;
 }
 
@@ -144,4 +144,18 @@ hr {
   color: #ffffff;
   margin-left: 34px;
   margin-right: 34px;
+}
+
+.box3_title {
+  text-transform: uppercase;
+  font-weight: 500;
+  padding-top: 30px;
+  font-size: 11px;
+}
+
+.box2_title {
+  text-transform: uppercase;
+  color: #33439b;
+  font-weight: 500;
+  margin-top: 31px;
 }
